@@ -1,3 +1,7 @@
+# Todo App
+
+This is a todo app that was built using Firebase. This app is hosted on https://shiny-belekoy-fe3a07.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
